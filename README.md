@@ -21,7 +21,6 @@ Actualmente, me encuentro en Popayán, Cauca, Colombia.
 
 En resumen, soy Jose Guillermo Galvis Restrepo, me llama mucho la atención el rol de level designer y todo lo que tiene que ver con la creación de experiencias memorables en el mundo de los videojuegos.
 
----
-=======
-Perfil: Estudiante del programa de ingeniería multimedia, ocupación servidor público, nacido el 28 de enero de 1988, con grandes expectativas en la formación con la cual busco mejorar mis conocimientos, mi rol a desempeñar será el de Asegurarse de que el diseño del juego se realice por completo y funcione a su máxima capacidad.
+
+#Perfil: Estudiante del programa de ingeniería multimedia, ocupación servidor público, nacido el 28 de enero de 1988, con grandes expectativas en la formación con la cual busco mejorar mis conocimientos, mi rol a desempeñar será el de Asegurarse de que el diseño del juego se realice por completo y funcione a su máxima capacidad.
 >>>>>>> 766ad42 (Update README.md)
